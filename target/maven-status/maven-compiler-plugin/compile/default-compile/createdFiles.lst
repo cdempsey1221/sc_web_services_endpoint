@@ -1,0 +1,3 @@
+com\shakercafe\service\ShakercafeServiceEndpoint.class
+com\shakercafe\service\infrastructure\JettyServerBootstrap.class
+com\shakercafe\service\config\AppConfig.class
